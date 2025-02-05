@@ -1,0 +1,15 @@
+pandas
+fastparquet
+pyarrow
+pyfim
+networkx
+seaborn
+torch==2.1.1
+torch_geometric==2.4.0
+pytorch-lightning==2.1.1
+python-dotenv
+psutil
+numpy==1.26.0
+pynvml
+mlflow
+-e .
